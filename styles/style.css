@@ -1,4 +1,11 @@
+/* font-family: "IntroRegular"; */
 @font-face{
     font-family: "IntroRegular";
     src: url("../fonts/IntroRegular.woff");
+}
+/* font-family: "OpenSans-CondBold"; */
+
+@font-face{
+    font-family: "OpenSans-CondBold";
+    src: url("../fonts/OpenSans-CondBold.woff");
 }
